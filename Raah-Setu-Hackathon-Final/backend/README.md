@@ -17,3 +17,5 @@ API:
 - `POST /api/simulation/run`
 
 The model is trained at startup on a reproducible synthetic traffic dataset. Replace `train_model()` with real Nagpur traffic-counter/ANPR data for production.
+
+Raah Setu - Live Website (https://raah-setu.vercel.app/)
